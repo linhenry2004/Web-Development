@@ -8,4 +8,4 @@ name="robots" content = "index, follow"
 
 name="desciption" content = "Pandas"
 
-name="autho" content="Henry Lin"
+name="author" content="Henry Lin"
